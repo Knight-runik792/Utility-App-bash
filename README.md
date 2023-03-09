@@ -3,7 +3,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Linux Utility Application is a software tool which allows us to perform some specific tasks easily
+* Linux utility applications are software tools that are designed to perform specific tasks on a Linux operating system.
+* These applications can range from simple utilities that perform basic tasks like file management, text editing, and system monitoring, to more complex applications that perform tasks like networking, security, and system administration.
+* These utilities are an essential part of the Linux ecosystem and play a crucial role in enabling users to perform a wide range of tasks with ease and efficiency.
 
 ## Features
 
