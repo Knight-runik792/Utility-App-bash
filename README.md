@@ -8,7 +8,7 @@ Linux Utility Application is a software tool which allows us to perform some spe
 ## Features
 
 - Lets you work with file permissions
-- Includes a mini-college application allowing users to view time-table,use to-do lists,and give a simple tests which they would be graded for
+- Includes a mini-college application allowing users to view time-table,use to-do lists for their tasks,open their college website, and give a simple tests which they would be graded for
 - Includes a LAMP(Linux,Apache,MySQL,PHP) installer
 - Installer for some popular softwares -Visual Studio Code, Android Studio, WPS Office etc.
 - View your CPU IDLE time
