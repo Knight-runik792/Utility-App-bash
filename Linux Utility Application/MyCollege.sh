@@ -1,5 +1,4 @@
 #!/bin/bash
-#./file_permissions.sh
 # Define your function here
 Test() {
   zenity --info --title "Namaste" --width 50 --height 7 --text "Welcome to St. Xavier\'s College (Autonomous), Mumbai"
