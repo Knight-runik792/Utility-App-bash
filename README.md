@@ -24,7 +24,7 @@ Zenity provides a set of dialog boxes, such as message boxes, input boxes, file 
 
 
 This Application uses a number of simple bash script files to work properly:
-
+ 
 - [AngularJS] - HTML enhanced for web apps!
 - [Ace Editor] - awesome web-based text editor
 - [markdown-it] - Markdown parser done right. Fast and easy to extend.
@@ -48,13 +48,18 @@ run these commands in your terminal
 
 ```
 cd utilityApp
-#to make your main file executable, use chmod
-chmod 777 mos.bash
-#now to run your main file
-./mos.sh
+```
+To make your main file executable, use chmod
+```chmod 777 mos.bash```
+
+Now to run your main file
+```
+./mos.bash
 
 ```
-
-```
+Alternatively,
+Simply write
+```sh mos.bash```
+in your terminal to run the application
 
 
