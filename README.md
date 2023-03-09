@@ -1,5 +1,5 @@
 # Linux Utility Application
-## _Useful tools for linux created using simple bash scripts_
+## _Useful tools for Linux created using simple bash scripts_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
