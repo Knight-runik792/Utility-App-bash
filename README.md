@@ -25,37 +25,30 @@ Zenity provides a set of dialog boxes, such as message boxes, input boxes, file 
 
 This Application uses a number of simple bash script files to work properly:
  
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
+- [mos.bash]- main script
+- fill in the names of scripts
 
 
 ## Installation
 You can find our app through this link-*insert link*
-The Utility app requires you to have the main bash file along with all the other bash files stored together locally in your system
+The Utility app requires you to have the main bash file along with all the other bash files stored together locally in your system.
 
-once you do that 
+Once you do that, 
 
 
-run these commands in your terminal
+Run these commands in your terminal
 
 ```
 cd utilityApp
 ```
 To make your main file executable, use chmod
-```chmod 777 mos.bash```
+```
+chmod 777 mos.bash
+```
 
 Now to run your main file
 ```
 ./mos.bash
-
 ```
 Alternatively,
 Simply write
